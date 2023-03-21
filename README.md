@@ -1,5 +1,5 @@
 # Cookies
-其实就是一些写了玩的没用脚本
+Just For Fun
 ## Windows如何生成可执行文件？
 
 ## EasyInvoice 发票脚本
